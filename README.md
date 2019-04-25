@@ -41,6 +41,7 @@ This should get you up and running. Please report failures/problems with the bui
 - [ ] Let's add user accounts via firebase to store preferred settings as a user
 - [ ] Improve UX/UI of page
 - [ ] fix broken "Name Transcript" button
+- [ ] speech recognition with no ability to turn it on -- edit Firefox code to create checkbox to enable speech recognition
 
 
 # Deployment
