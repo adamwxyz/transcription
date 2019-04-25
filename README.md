@@ -39,7 +39,7 @@ This should get you up and running. Please report failures/problems with the bui
 - [ ] In fact, let's define a settings panel that will grab all these things together
 - [ ] Let's discuss usefulness of a SPA framework to handle all this (likely Vue)
 - [ ] Let's add user accounts via firebase to store preferred settings as a user
-- [ ] Imporove UX/UI of page
+- [ ] Improve UX/UI of page
 - [ ] fix broken "Name Transcript" button
 
 
